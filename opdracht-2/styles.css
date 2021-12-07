@@ -42,8 +42,12 @@ div,form{
 }
 
 /* CSS voor opdracht 2.5 */
-.five{
+.five {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
 }
 
+.five article {
+    flex: 1 1 360px;
+}
