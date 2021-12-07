@@ -12,8 +12,7 @@
 }
 
 /* CSS voor opdracht 2.2 */
-.two {
-    list-style-type: none;
+.two,div {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -34,7 +33,7 @@ ul{
     justify-content: space-between;
 }
 /* CSS voor opdracht 2.4 */
-div,form{
+.four,form{
     display: flex;
     flex-direction: column;
     justify-content: center;
