@@ -33,6 +33,7 @@ ul{
     justify-content: space-between;
 }
 /* CSS voor opdracht 2.4 */
+/* heb wel de class four toegevoegd, anders wist ik niet wat de oplossing was*/
 .four,form{
     display: flex;
     flex-direction: column;
